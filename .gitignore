@@ -1,3 +1,4 @@
+.gitignore
 #batch file
 *.bat
 #python files
