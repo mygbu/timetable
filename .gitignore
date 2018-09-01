@@ -1,0 +1,4 @@
+#batch file
+*.bat
+#python files
+*.py
