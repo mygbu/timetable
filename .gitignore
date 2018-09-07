@@ -4,3 +4,4 @@
 *.bat
 #python files
 *.py
+*.vbs
