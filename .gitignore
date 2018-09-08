@@ -1,4 +1,7 @@
+#git ignore
+*.gitignore
 #batch file
 *.bat
 #python files
 *.py
+*.vbs
